@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\davaleba927\davaleba927\obj\Debug\davaleba927.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\davaleba927\davaleba927\obj\Debug\davaleba927.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\davaleba927\davaleba927\bin\Debug\davaleba927.exe.config
+C:\Users\User\source\repos\davaleba927\davaleba927\bin\Debug\davaleba927.exe
+C:\Users\User\source\repos\davaleba927\davaleba927\bin\Debug\davaleba927.pdb
+C:\Users\User\source\repos\davaleba927\davaleba927\obj\Debug\davaleba927.exe
+C:\Users\User\source\repos\davaleba927\davaleba927\obj\Debug\davaleba927.pdb
